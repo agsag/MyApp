@@ -8,4 +8,6 @@
            VerticalOptions="Center"
            HorizontalOptions="Center" />
 
+  <Label Text="Whats going to happen with this label now?" />
+
 </ContentPage>
